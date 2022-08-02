@@ -1,0 +1,17 @@
+.app-orgchart-container {
+  margin: 60px 0;
+  display: flex;
+  border-radius: 0px;
+  justify-content: center;
+}
+
+.app-backbutton {
+  color: #fff;
+  border-radius: 26px;
+  display: flex;
+  border: none;
+  position: fixed;
+  top: 15px;
+  left: 80px;
+  background-color: #dce6ec;
+}
